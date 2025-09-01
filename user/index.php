@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <title>Daftar Buku</title>
+    <title>Daftar User</title>
     <style>
         table {
             width: 80%;
@@ -69,4 +69,5 @@
     <div style="text-align:center;">
         <a href="add_user.php">Tambah User Baru</a>
 </body>
+
 </html>
